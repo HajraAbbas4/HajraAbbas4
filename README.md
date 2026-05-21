@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Hajara Abbas 👋
 
-<!--
-**HajraAbbas4/HajraAbbas4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Artificial Intelligence Student  
+💻 Interested in AI, Python, Software Development & Networking  
+📍 Kochi, Kerala
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- SQL
+- Machine Learning Basics
+- Data Structures
+- Computer Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Emotion Identification Model
+- Hospital Network using Cisco Packet Tracer
+- Java Expense Tracker
+- Python Auto Draw
+- Mini Instagram Application
+
+## Certifications
+- Google Agile Essentials
+- GitHub Foundations
+- Python Essential Training
+- Machine Learning Basics
+
+## Connect With Me
+LinkedIn:
+www.linkedin.com/in/hajra-abbas-6a19b12b3/
