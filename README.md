@@ -1,12 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hajra%20Abbas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20%26%20AI%20Developer%20%7C%20Building%20Intelligent%20Solutions&descAlignY=62&descSize=16"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=700\&size=25\&duration=3000\&pause=1000\&color=70A5FD\&center=true\&vCenter=true\&width=850\&lines=Python+%26+AI+Developer;BCA+AI+%26+ML+Student+at+Jain+University;Building+AI+and+Full-Stack+Projects;Learning+%7C+Building+%7C+Growing)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HajraAbbas4\&label=Profile+Views\&color=70a5fd\&style=flat-square)](https://github.com/HajraAbbas4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajra%20Abbas-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hajra-abbas-6a19b12b3/)
-[![GitHub Followers](https://img.shields.io/github/followers/HajraAbbas4?label=Followers\&style=flat-square\&logo=github)](https://github.com/HajraAbbas4?tab=followers)
 
 </div>
 
@@ -14,50 +11,21 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="350" alt="Developer coding animation" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="350" alt="Woman developer coding" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
 
-```python
-class HajraAbbas:
-    def __init__(self):
-        self.name = "Hajra Abbas"
-        self.location = "Kerala, India"
-        self.degree = "BCA in Artificial Intelligence and Machine Learning"
+I am **Hajra Abbas**, a technology-focused student pursuing a **BCA in Artificial Intelligence and Machine Learning** at **Jain (Deemed-to-be University)**.
 
-        self.roles = [
-            "Python & AI Developer Intern",
-            "Full-Stack Web Development Intern",
-            "Student Developer"
-        ]
+I enjoy developing practical projects involving artificial intelligence, machine learning, Python, full-stack development, databases, networking, and automation. I am especially interested in building technology that solves real-world problems and creates a meaningful impact.
 
-        self.tech_stack = [
-            "Python", "Java", "SQL",
-            "Flask", "HTML", "CSS", "JavaScript",
-            "Machine Learning", "NLP"
-        ]
-
-        self.currently_learning = [
-            "Artificial Intelligence",
-            "Deep Learning",
-            "Full-Stack Development",
-            "NVIDIA Technologies",
-            "Cloud Computing"
-        ]
-
-    def motto(self):
-        return "Try → Fail → Learn → Improve → Build"
-
-developer = HajraAbbas()
-```
-
-I am a technology-focused BCA student specialising in **Artificial Intelligence and Machine Learning** at Jain University.
-
-I enjoy developing practical projects involving AI, machine learning, web development, databases, networking, and automation. I am especially interested in building technology that solves real-world problems and creates a measurable impact.
-
-* 🔭 Working on AI and full-stack development projects
-* 🌱 Exploring deep learning, NVIDIA technologies and cloud computing
-* 💡 Interested in AI, automation, robotics and emerging technologies
-* 🤝 Open to collaboration on AI, Python and student-led technology projects
-* 🎯 Goal: Become a skilled AI and software development professional
+* 💼 Python & AI Developer Intern at **Skysmile Technologies**
+* 🌐 Full-Stack Web Development Intern at **ElevanceSkills**
+* 🤖 Member of the **NVIDIA Developer Program**
+* 🎓 BCA AI & ML student at **Jain University**
+* 🔭 Building AI and full-stack software projects
+* 🌱 Learning deep learning, NVIDIA technologies, SaaS architecture, and cloud deployment
+* 💡 Interested in AI, automation, robotics, and emerging technologies
+* 🤝 Open to collaboration on AI, Python, and student-led technology projects
+* 🎯 Goal: Build intelligent solutions that solve real-world problems
 
 <br clear="right"/>
 
@@ -124,15 +92,50 @@ I enjoy developing practical projects involving AI, machine learning, web develo
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Development Proficiency
+
+### Advanced Foundation
+
+![Python](https://img.shields.io/badge/Python-Advanced%20Foundation-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Advanced%20Foundation-6F42C1?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advanced%20Foundation-FF6F00?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-Advanced%20Foundation-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+
+### Intermediate Development
+
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Intermediate-000000?style=flat-square\&logo=flask\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Intermediate-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Intermediate-2563EB?style=flat-square)
+
+### Currently Developing
+
+![React](https://img.shields.io/badge/React-Currently%20Developing-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-Currently%20Developing-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Currently%20Developing-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Currently%20Developing-232F3E?style=flat-square\&logo=amazonwebservices\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Currently%20Developing-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-Currently%20Developing-76B900?style=flat-square\&logo=nvidia\&logoColor=white)
+
+---
+
+## 🎯 Development Interests
 
 <div align="center">
-  <a href="https://github.com/HajraAbbas4">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=HajraAbbas4&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="Hajra's GitHub statistics"/>
-  </a>
-  <a href="https://github.com/HajraAbbas4">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajraAbbas4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Hajra's most used languages"/>
-  </a>
+
+| Area                           | Current Focus                                                              |
+| :----------------------------- | :------------------------------------------------------------------------- |
+| 🤖 **Artificial Intelligence** | Intelligent applications, AI tools, automation, and practical AI solutions |
+| 🧠 **Machine Learning**        | Classification, preprocessing, model development, and evaluation           |
+| 🐍 **Python Development**      | Flask applications, automation, data processing, and backend logic         |
+| 🌐 **Full-Stack Development**  | Next.js, React, TypeScript, Spring Boot, and REST APIs                     |
+| 🟢 **NVIDIA Technologies**     | Jetson Nano, PyTorch, image classification, and accelerated computing      |
+| ☁️ **Cloud Computing**         | AWS, EC2, deployment, web hosting, and DevOps fundamentals                 |
+| 📊 **Data and Databases**      | SQL, MySQL, database design, analysis, and statistical foundations         |
+| 🔐 **Networking and Security** | Cisco Packet Tracer, network design, VLANs, and cybersecurity awareness    |
+
 </div>
 
 ---
@@ -157,11 +160,19 @@ I enjoy developing practical projects involving AI, machine learning, web develo
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Professional Highlights
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HajraAbbas4\&theme=tokyonight\&no-frame=true\&no-bg=true\&row=1\&column=7\&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+| Highlight                                  | Details                                                                                      |
+| :----------------------------------------- | :------------------------------------------------------------------------------------------- |
+| 🟢 **NVIDIA Developer Program**            | Exploring NVIDIA developer tools, AI resources, Jetson technology, and accelerated computing |
+| 💻 **Internal Smart India Hackathon 2025** | Participated in a 24-hour coding and innovation challenge                                    |
+| 🔐 **c0c0n 2025**                          | Participated in a major cybersecurity and hacking conference                                 |
+| 🌐 **IEEE Membership**                     | Member of a global professional technology community                                         |
+| 📊 **Institute of Analytics**              | Student member focused on analytics and professional development                             |
+| 🎤 **KMAC 2026 Volunteer**                 | Supported an event with more than 50 speakers and 1,000 delegates                            |
+| 🚀 **Techspectations 2026**                | Participated in a technology summit focused on innovation and Kerala’s digital ecosystem     |
 
 </div>
 
