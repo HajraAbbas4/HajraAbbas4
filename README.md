@@ -13,7 +13,7 @@
 
 <img align="right" width="350" alt="Woman developer coding" src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif"/>
 
-I am **Hajra Abbas**, a technology-focused student pursuing a **BCA in Artificial Intelligence and Machine Learning** at **Jain (Deemed-to-be University)**.
+I am **HAJARA**, a technology-focused student pursuing a **BCA in Artificial Intelligence and Machine Learning** at **Jain (Deemed-to-be University)**.
 
 I enjoy developing practical projects involving artificial intelligence, machine learning, Python, full-stack development, databases, networking, and automation. I am especially interested in building technology that solves real-world problems and creates a meaningful impact.
 
